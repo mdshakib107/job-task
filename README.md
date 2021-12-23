@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [University.info](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [University.info](https://relaxed-hopper-2cee8f.netlify.app/).
 
 ## There is no unique key in this API which is giving a little warning.
 
